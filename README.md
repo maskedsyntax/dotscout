@@ -1,0 +1,2 @@
+# dotscout
+Discover available domains.
